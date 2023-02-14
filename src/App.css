@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+h1{
+  color: white;
+  width: 100%;
+  padding: 20px 20% 10% 10%;
+}
+
+
+header{
+  background: #0057df;
+  color: #ffffff;
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+  padding: 20px 20% 20px 10%;
+  align-items: center;
+  width: 100%;
+}
+
+.servico{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  margin: 20px;
+}
